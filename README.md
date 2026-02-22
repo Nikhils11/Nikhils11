@@ -1,6 +1,6 @@
 # Hi there, I'm Nikhil Singh 👋
 
-**Student | Backend Intern at DentoStack**
+**Student**
 
 ---
 
